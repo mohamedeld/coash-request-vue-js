@@ -1,0 +1,69 @@
+{
+  "coaches": [
+    {
+      "id": "c1",
+      "firstName": "Maximilian",
+      "lastName": "Schwarzmülle",
+      "areas": [
+        "frontend",
+        "backend",
+        "career"
+      ],
+      "description": "I'm Maximilian and I've worked as a freelance web developer for years. Let me help you become a developer as well!",
+      "hourlyRate": 30
+    },
+    {
+      "id": "c2",
+      "firstName": "Julie",
+      "lastName": "Jones",
+      "areas": [
+        "frontend",
+        "career"
+      ],
+      "description": "I am Julie and as a senior developer in a big tech company, I can help you get your first job or progress in your current role.",
+      "hourlyRate": 30
+    },
+    {
+      "id": "c3",
+      "firstName": "mohamed",
+      "lastName": "Mohamed Elsayed Ali Elrfaay",
+      "description": "asdafsdfa",
+      "hourlyRate": 12,
+      "areas": [
+        "frontend",
+        "backend"
+      ]
+    }
+  ],
+  "requests": [
+    {
+      "coachId": "c1",
+      "email": "mohamedelsayedelrfaay@gmail.com",
+      "message": "welcome in vue js",
+      "id": 1
+    },
+    {
+      "coachId": "c3",
+      "email": "mohamed.azoz20010@gmail.com",
+      "message": "welcoem in programming",
+      "id": 2
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
